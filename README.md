@@ -2,7 +2,7 @@
 By Nour Farhat, Leopoldo Sirolli, Clementine Mathieu, Rakan Hourani
 
 ## Overview
-Created by the collaborative efforts of Marcela, Cloe, and Jean, this project is part of the curriculum for the Advanced Data Structures & Storage course. The platform serves as a simple, user-friendly web interface and API to retrieve and display key data about various cryptocurrencies.
+This project is part of the curriculum for the Advanced Data Structures & Storage course. The platform serves as a simple, user-friendly web interface and API to retrieve and display key data about various cryptocurrencies.
 
 ### Core Functionalities:
 __Search Capability:__ Users can input a cryptocurrency name or abreviated symbol or they can also select their choice from a dropdown menu loaded with the names from the dataset.
