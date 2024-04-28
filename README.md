@@ -5,7 +5,7 @@ By Nour Farhat, Leopoldo Sirolli, Clementine Mathieu, Rakan Hourani
 This project is part of the curriculum for the Advanced Data Structures & Storage course. The platform serves as a simple, user-friendly web interface and API to retrieve and display key data about various cryptocurrencies.
 
 ### Core Functionalities:
-__Search Capability:__ Users can input a cryptocurrency name or abreviated symbol or they can also select their choice from a dropdown menu loaded with the names from the dataset.
+__Search Capability:__ Users can select their choice from a dropdown menu loaded with the names of cryptocurrencies from the dataset.
 
 __Information Display:__ Upon selection, the system presents essential details about the chosen cryptocurrency on a separate page.
 
@@ -18,7 +18,6 @@ Several Python libraries are instrumental for this application, including Flask 
 - pip install pandas
 - pip install tinydb
 - pip install flask
-- pip install os
 
 ## Download
 1. Download the ZIP file from the repository. It contains a README, the primary Python file (flask_app.py), a sample HTML template, and an accompanying .csv dataset.
