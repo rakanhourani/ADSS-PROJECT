@@ -1,8 +1,8 @@
 # ADSS-PROJECT: Cryptocurrency Information Web & API
-By Nour Farhat, Leopoldo Sirolli, Clementine Mathieu, Rakan Hourani
 
 ## Overview
-This project is part of the curriculum for the Advanced Data Structures & Storage course. The platform serves as a simple, user-friendly web interface and API to retrieve and display key data about various cryptocurrencies.
+The Cryptocurrency Web is a user-friendly web platform built on PythonAnywhere with TinyDB for data management and developed through the PyCharm integrated development environment (IDE). It offers a seamless experience for users to explore and analyse key financial metrics of the top 41 cryptocurrencies by market capitalisation, directly sourced from Yahoo Finance. 
+The web platform emphasises ease of use, providing users with up-to-date insights into prices, trends, and market capitalisation, empowering informed investment decisions. Future enhancements aim to refine the user experience further, adding more personalized features and comprehensive data interpretation resources.
 
 ### Core Functionalities:
 __Search Capability:__ Users can select their choice from a dropdown menu loaded with the names of cryptocurrencies from the dataset.
@@ -19,13 +19,23 @@ Several Python libraries are instrumental for this application, including Flask 
 - pip install tinydb
 - pip install flask
 
-## Download
+## Installation
+Accessing the Cryptocurrency Web Platform requires no installation. To begin exploring the financial insights it offers, simply follow the direct link associated with this repository.
+
+## Usage 
 1. Download the ZIP file from the repository. It contains a README, the primary Python file (flask_app.py), a sample HTML template, and an accompanying .csv dataset.
 2. Transfer the flask_app.py and the Cryptocurrencies.csv into the PythonAnywhere designated 'mysite' folder.
 3. Place the HTML template file into the 'templates' subfolder of 'mysite'
 4. Adjust the dataset path within the flask_app.py script to align with your PythonAnywhere file structure.
 5. Save changes and refresh all components to ensure smooth functionality.
 6. You can now open your project at [clementinemathieu.pythonanywhere.com](URL)
+
+## Credits 
+- Nour Farhat
+- Leopoldo Sirolli
+- Clemetine Mathieu
+- Rakan Hourani
+
 
 
 
