@@ -1,8 +1,9 @@
 # ADSS-PROJECT: Cryptocurrency Information Web & API
 
 ## Overview
-The Cryptocurrency Web is a user-friendly web platform built on PythonAnywhere with TinyDB for data management and developed through the PyCharm integrated development environment (IDE). It offers a seamless experience for users to explore and analyse key financial metrics of the top 41 cryptocurrencies by market capitalisation, directly sourced from Yahoo Finance. 
-The web platform emphasises ease of use, providing users with up-to-date insights into prices, trends, and market capitalisation, empowering informed investment decisions. Future enhancements aim to refine the user experience further, adding more personalized features and comprehensive data interpretation resources.
+The Cryptocurrency Web is a user-friendly web platform built on PythonAnywhere with TinyDB for data management and developed through the PyCharm integrated development environment (IDE). It offers a seamless experience for users to explore and analyse key financial metrics of the top 42 cryptocurrencies by market capitalisation, directly sourced from Yahoo Finance and Coin Market Cap ([https://coinmarketcap.com/](URL)). 
+
+The web platform emphasises ease of use, providing users with insights into prices, trends, and market capitalisation, empowering informed investment decisions. Future enhancements aim to refine the user experience further, adding more personalized features, having up-to-date information, and comprehensive data interpretation resources.
 
 ### Core Functionalities:
 __Search Capability:__ Users can select their choice from a dropdown menu loaded with the names of cryptocurrencies from the dataset.
@@ -13,7 +14,7 @@ __Information Display:__ Upon selection, the system presents essential details a
 Developed on PythonAnywhere's (Python 3.10) free trial
 
 ## Libraries
-Several Python libraries are instrumental for this application, including Flask for web serving, Pandas for data manipulation, TinyDB as a lightweight database, and the OS library for operating system interactions. To set up, use the following commands in the PythonAnywhere Bash Console:
+Several Python libraries are instrumental for this application, including Flask for web serving, Pandas for data manipulation, and TinyDB as a lightweight database. To set up, use the following commands in the PythonAnywhere Bash Console:
 
 - pip install pandas
 - pip install tinydb
